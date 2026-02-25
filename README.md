@@ -34,9 +34,9 @@ Evaluate the model and plot predictions.
 
 
 ## Program
-#### Name:
-#### Register Number:
-Include your code here
+#### Name: THEJESWARAN M
+#### Register Number: 212223240168
+
 ```Python 
 # Define RNN Model
 class RNNModel(nn.Module):
